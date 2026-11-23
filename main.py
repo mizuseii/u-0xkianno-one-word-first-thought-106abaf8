@@ -3,6 +3,8 @@
 Writes exactly one word, the first that comes to mind, to /output/entry.txt.
 Deterministic: no network, no randomness, no input. The word is "kerfuffle":
 a commotion, a fuss — vivid, surprising, and a little witty in the sound of it.
+It stands apart from the field's pretty atmospheric words (petrichor, apricity,
+murmuration): a small domestic uproar in a single word, not another sunset.
 """
 
 import os
